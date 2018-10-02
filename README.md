@@ -1,4 +1,4 @@
 ## Python Tools
 
 ### Networking:
-* [Flow Replicator](flow_replicator) - Flow Replicator.
+* [Flow Replicator](flow_replicator) - A simple Flow Replicator daemon.
