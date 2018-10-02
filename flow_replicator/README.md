@@ -1,6 +1,6 @@
 ## IPv4 Flow Replicator
 
-### Functional description:
+### Description:
 Could be used to replicate sFlow or cFlow to multiple targets on custom ports.
 Each datagram is send to every target.
 
