@@ -1,5 +1,5 @@
-### IPv4 UDP Replicator. 
-### Could be used to replicate sFlow or cFlow to multiple targets on custom ports.
+### IPv4 Flow Replicator.
+### Could be used to replicate sFlow or cFlow to multiple targets on custom ports. Each datagram is send to every target.
 
 #### How to use:
 * Install Python modules using the command:
