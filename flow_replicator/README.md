@@ -2,7 +2,7 @@
 ### Could be used to replicate sFlow or cFlow to multiple targets on custom ports.
 
 #### How to use:
-* Install python modules using the command:
+* Install Python modules using the command:
 ```sh
 # sudo pip install logging daemonize
 ```
@@ -11,4 +11,4 @@
 
 ### IMPORTANT:
 * Has not been tested with Python 3.
-* The script is a Linux Daemon. The service controls via SysV or Systemd have not been implemented.
+* The script is a Linux Daemon. The service controls via SysV or Systemd has not been implemented.
